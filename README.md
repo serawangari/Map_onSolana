@@ -1,4 +1,4 @@
-# Map on Solana — ArcGIS (Minimal UI + OAuth)
+# Map on Solana — ArcGIS (UI + OAuth)
 
 This starter repo gives you:
 - `/` public map (Pakistan) loading your **ArcGIS WebMap** by item ID.
